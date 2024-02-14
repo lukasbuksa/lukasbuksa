@@ -4,7 +4,7 @@ I'm a passionate and experienced full-stack developer, embarking on my programmi
 
 - **Frontend Development**: Proficient in JavaScript and TypeScript, with extensive experience in building user interfaces using React, Angular, and Next.js. I'm also well-versed in crafting responsive and engaging designs with CSS, SASS, and SCSS.
 
-- **Backend Development**: Adept in Node.js, BUN, and Deno, specializing in server-side programming with Express.js and Elysia.js. I'm skilled in developing robust APIs and backend systems.
+- **Backend Development**: Adept in Go, Node.js, BUN, Deno specializing in server-side programming with Express.js and Elysia.js. I'm skilled in developing robust APIs and backend systems.
 
 - **Web Development Tools**: I'm comfortable with build tools like WebPack, Gulp, and Vite.js to streamline development workflows, and I enjoy working with modern frontend libraries and frameworks.
 
