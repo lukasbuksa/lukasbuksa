@@ -16,7 +16,7 @@ I'm a passionate and experienced full-stack developer, embarking on my programmi
 
 - **DevOps and Version Control**: I'm well-versed in using Docker and Docker Hub for containerization and have a strong understanding of Git, GitHub, and GitLab. I can set up CI/CD pipelines with GitHub Actions and GitLab CI/CD to automate deployments.
 
-- **Server Administration**: Comfortable managing Linux servers, particularly Ubuntu and Debian, ensuring the robust and reliable deployment of web applications.
+- **Server Administration**: Comfortable managing Linux servers, particularly NixOS, Arch, Ubuntu and Debian, ensuring the robust and reliable deployment of web applications.
 
 My aim is to continually expand my skill set and contribute to innovative projects. If you're looking for a dedicated and versatile developer, feel free to reach out.
 
